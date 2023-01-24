@@ -560,18 +560,18 @@ Aɢᴀɪɴ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"tg://resolve?domain={SUPPORT_CHAT}"
+                            text="sᴜᴩᴩᴏʀᴛ⛳️", url=f"tg://resolve?domain={SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"tg://resolve?domain={SUPPORT_CHAT}"
+                            text="ᴜᴩᴅᴀᴛᴇs🏆", url=f"tg://resolve?domain={UPDATE_CHANNEL}"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=1413518510"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ👑", url=f"tg://user?id=5327883761"
                         ),
                         InlineKeyboardButton(
-                            text="Subscribe",
+                            text="Subscribe🥂",
                             url="https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q",
                         ),
                     ],
