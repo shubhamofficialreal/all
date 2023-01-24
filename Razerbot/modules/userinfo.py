@@ -351,9 +351,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "「ʜᴇᴀʟᴛʜ」", url="https://t.me/Razer312Updates/4"),
+                                "「ᴄʜᴀɴɴᴇʟ」", url="https://t.me/BlazeRocks/400"),
                             InlineKeyboardButton(
-                                "「ᴅɪsᴀsᴛᴇʀ」", url="https://t.me/Razer312Updates/6")
+                                "「ɢʀᴏᴜᴘ」", url="https://t.me/BlazeRocks/401")
                         ],
                     ]
                 ),
@@ -369,9 +369,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "「ʜᴇᴀʟᴛʜ」", url="https://t.me/Razer312Updates/4"),
+                                "「ᴄʜᴀɴɴᴇʟ」", url="https://t.me/BlazeRocks/400"),
                             InlineKeyboardButton(
-                                "「ᴅɪsᴀsᴛᴇʀ」", url="https://t.me/Razer312Updates/6")
+                                "「ɢʀᴏᴜᴘ」", url="https://t.me/BlazeRocks/401")
                         ],
                     ]
                 ),
@@ -564,7 +564,7 @@ When marked as AFK, any mentions will be replied to with a message to say you're
  ⋗ /ginfo <group-id/username>*:* get information about group.
  
 *What is that health thingy?*
- Come and see [HP System explained](https://t.me/Razer312Updates/4)
+ Come and see [HP System explained](https://t.me/BlazeRocks/400)
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
