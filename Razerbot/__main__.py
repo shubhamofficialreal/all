@@ -537,7 +537,7 @@ Aɢᴀɪɴ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ
             text=f"""ꝛᴧᴢᴇʀ ɪs ᴏɴʟɪɴᴇ sɪɴᴄᴇ ᴀᴜɢᴜsᴛ 2022 ᴀɴᴅ ɪᴛ's ʙᴇɪɴɢ ᴄᴏɴsᴛᴀɴᴛʟʏ ᴜᴘᴅᴀᴛᴇᴅ!
             
 
-⌁ @WH0907, ʙᴏᴛ ᴄʀᴇᴀᴛᴏʀ ᴀɴᴅ ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+⌁ @BlazeShubham & @addy003 ʙᴏᴛ ᴄʀᴇᴀᴛᴏʀ ᴀɴᴅ ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
             
 × sᴜᴘᴘᴏʀᴛ
@@ -571,8 +571,8 @@ Aɢᴀɪɴ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ
                             text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id=1413518510"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/LinuxGuy312",
+                            text="Subscribe",
+                            url="https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q",
                         ),
                     ],
                     [
@@ -633,18 +633,15 @@ def Source_about_callback(update: Update, context: CallbackContext):
             text=f"""
 ʜᴇʏ,
 ᴛʜɪs ɪs {BOT_NAME},
-ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
-[ᴩʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
-[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot)
-ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+Tʜɪs ɪs ᴀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @ʙʟᴀᴢᴇsʜᴜʙʜᴀᴍ & @ᴀᴅᴅʏ003
+ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇᴅ ᴡɪᴛʜ @ʙʟᴀᴢᴇʀᴏᴄᴋs (UɴʟɪᴍɪᴛᴇᴅMᴇ) & @ᴍᴇ_ᴛɪᴍᴇ_ғᴏʀ_ᴜʜʜ (MᴇTɪᴍᴇ) Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴊᴏɪɴ 
+ᴏᴜʀ ɢʀᴏᴜᴘ @ʙʟᴀᴢᴇᴋɪᴅsʜᴀᴛ.
 
-
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/LinuxGuy312/RazerBot)
+*sᴜʙsᴄʀɪʙᴇ ɪғ ʏᴏᴜ ʟᴏᴠᴇ ᴛʜɪs ʙᴏᴛ :* [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/LinuxGuy312/RazerBot/blob/master/LICENSE).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ].
 © 2022 - 2023 @{SUPPORT_CHAT}, ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
