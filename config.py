@@ -12,7 +12,7 @@ class Config(object):
     LOGGER = True
     API_ID = 27899654  # integer value, dont use ""
     API_HASH = "644a291c69677a2fd785c43455b1df08"
-    TOKEN = "5921690368:AAHri6jwz184gY8KPcKu_KDAepEJSRNyPEI"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5921690368:AAHL--dtRK_hVBZOX9Cdzv-7yRobAkQUusY"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     BOT_USERNAME = "MeTimeXUnlimitedMe_Bot"
     BOT_NAME = "𝘔𝘦𝘛𝘪𝘮𝘦𝘟𝘜𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥𝘔𝘌🌸🧿"
     BOT_ID = "5921690368"
