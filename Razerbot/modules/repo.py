@@ -24,7 +24,7 @@ async def repo(_, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="ʏᴏᴜᴛᴜʙᴇhttps://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q", url="https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q"), 
+                    InlineKeyboardButton(text="ʏᴏᴜᴛᴜʙᴇ", url="https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q"), 
                     InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=5851363440)
                 ]
             ]
