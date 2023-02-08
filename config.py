@@ -16,7 +16,7 @@ class Config(object):
     BOT_USERNAME = "MeTimeXUnlimitedMe_Bot"
     BOT_NAME = "𝘔𝘦𝘛𝘪𝘮𝘦𝘟𝘜𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥𝘔𝘌🌸🧿"
     BOT_ID = "5921690368"
-    OWNER_ID = 5327883761  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 5851363440  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "@blazeshubham"
     START_IMG = "https://graph.org/file/b357032c74b0929f53a6f.jpg"
     ALIVE_IMG = "https://graph.org/file/b357032c74b0929f53a6f.jpg"
