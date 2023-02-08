@@ -10,9 +10,9 @@ from Razerbot import pbot, START_IMG
 async def repo(_, message):
     await message.reply_photo(
         photo=START_IMG,
-        caption=f"""ʜᴇʏ ɪ'ᴍ RΛZΞR
+        caption=f"""ʜᴇʏ ɪ'ᴍ MeTimeXUnlimitedMe
 
-⥤ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @WH0907
+⥤ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @BlazeShubham
 ⥤ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : `{y()}`
 ⥤ ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ : `{o}`
 ⥤ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : `{s}`
@@ -24,8 +24,8 @@ async def repo(_, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/LinuxGuy312/RazerBot"), 
-                    InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=1413518510)
+                    InlineKeyboardButton(text="ʏᴏᴜᴛᴜʙᴇhttps://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q", url="https://www.youtube.com/channel/UCSi9RmXHnyLCdXsJCamaO5Q"), 
+                    InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=5851363440)
                 ]
             ]
         )
