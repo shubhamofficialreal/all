@@ -10,8 +10,8 @@ def get_user_list(config, key):
 # Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
 class Config(object):
     LOGGER = True
-    API_ID = 27899654  # integer value, dont use ""
-    API_HASH = "644a291c69677a2fd785c43455b1df08"
+    API_ID = 22347692  # integer value, dont use ""
+    API_HASH = "f6104693b63671c0fa92343ca8e22183"
     TOKEN = "5921690368:AAHL--dtRK_hVBZOX9Cdzv-7yRobAkQUusY"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     BOT_USERNAME = "MeTimeXUnlimitedMe_Bot"
     BOT_NAME = "𝘔𝘦𝘛𝘪𝘮𝘦𝘟𝘜𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥𝘔𝘌🌸🧿"
@@ -20,10 +20,10 @@ class Config(object):
     OWNER_USERNAME = "@blazeshubham"
     START_IMG = "https://graph.org/file/b357032c74b0929f53a6f.jpg"
     ALIVE_IMG = "https://graph.org/file/b357032c74b0929f53a6f.jpg"
-    UPDATE_CHANNEL = "blazerocks" # Your own channel for updates, do not add the @
-    SUPPORT_CHAT = "blazekidschat"  # Your own group for support, do not add the @
-    JOIN_LOGGER = (-1001852420702)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
-    EVENT_LOGS = (-1001852420702)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    UPDATE_CHANNEL = "AnimeStatus_4k" # Your own channel for updates, do not add the @
+    SUPPORT_CHAT = "AnimeStatus_4k"  # Your own group for support, do not add the @
+    JOIN_LOGGER = (-1001610293459)  # A new channel ID To log who started the bot. Starting with "-100", Put inside braces
+    EVENT_LOGS = (-1001610293459)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
     MONGO_DB_URI = "mongodb+srv://blazeshubham:shubham@cluster0.vftwypv.mongodb.net/?retryWrites=true&w=majority" 
